@@ -34,7 +34,7 @@ class UCV2013H{
 					if (array[r][c] == 1 && !visited[r][c]){  	// only do it if it == 1 and hasnt been visited
 						queue.add(new Point(r,c)); 		// add it to the queue
 						visited[r][c] = true;      		// make sure to record that you visited this one
-						int size = 1;				// the size of this slick obviously starts at 0
+						int size = 1;				// the size of this slick obviously starts at 1
 						totalSlicks++;  			// since youve found one bump up the total
 
 						while(!queue.isEmpty()){
