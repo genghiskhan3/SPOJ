@@ -1,4 +1,4 @@
-  public static class Parser{
+public static class Parser{
     final private int BUFFER_SIZE = 1 << 16;
   
     private DataInputStream din;
