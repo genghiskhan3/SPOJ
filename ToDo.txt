@@ -1,0 +1,7 @@
+Minumum spanning tree, Kruskals and primes algorithm
+... CSTREET
+... MST
+
+... UCF problems
+... * CPU - 2007
+... * ANT - 2014
