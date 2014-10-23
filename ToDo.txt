@@ -5,3 +5,6 @@ Minumum spanning tree, Kruskals and primes algorithm
 ... UCF problems
 ... * CPU - 2007
 ... * ANT - 2014
+
+Square root decomposition
+... RMQSQ
