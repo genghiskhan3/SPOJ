@@ -10,8 +10,9 @@ Square root decomposition
 ... RMQSQ
 
 Least common ancestor
-...
+... http://goo.gl/AKi2q0 (Topcoder expination of the RMQSQ and LCA problems and algorithms)
 
 Range Sum Querey
 ... CSUMQ
-... http://goo.gl/qk7fNY
+... http://goo.gl/qk7fNY  (PDF by Peter Fenwick explaining his algorithm)
+... http://goo.gl/rdhAlp  (Topcoder explination of the same exact algorithm)
