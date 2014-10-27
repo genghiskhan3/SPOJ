@@ -5,6 +5,7 @@ Minumum spanning tree, Kruskals and Prims algorithm
 ... CPU (UCF - 2014)
 
 Range Minimum Querey
+... Could use a segment tree to solve this problem as well
 ... Uses square root decomposition to solve it
 ... RMQSQ
 ... RPLN
