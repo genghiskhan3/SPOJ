@@ -1,10 +1,8 @@
 Minumum spanning tree, Kruskals and Prims algorithm
 ... CSTREET
 ... MST
-
-... UCF problems
-... * CPU - 2007
-... * ANT - 2014
+... ANT (UCF - 2014)
+... CPU (UCF - 2014)
 
 Range Minimum Sum
 ... Uses square root decomposition to solve it
