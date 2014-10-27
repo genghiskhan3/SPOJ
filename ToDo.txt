@@ -8,3 +8,10 @@ Minumum spanning tree, Kruskals and primes algorithm
 
 Square root decomposition
 ... RMQSQ
+
+Least common ancestor
+...
+
+Range Sum Querey
+... CSUMQ
+... http://goo.gl/qk7fNY
