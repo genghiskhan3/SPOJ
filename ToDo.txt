@@ -8,8 +8,10 @@ Minumum spanning tree, Kruskals and primes algorithm
 
 Square root decomposition
 ... RMQSQ
+... http://goo.gl/AKi2q0 (Topcoder expination of the RMQSQ and LCA problems and algorithms)
 
 Least common ancestor
+... LCASQ
 ... http://goo.gl/AKi2q0 (Topcoder expination of the RMQSQ and LCA problems and algorithms)
 
 Range Sum Querey
