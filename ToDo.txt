@@ -6,11 +6,13 @@ Minumum spanning tree, Kruskals and primes algorithm
 ... * CPU - 2007
 ... * ANT - 2014
 
-Square root decomposition
+Range Minimum Sum
+... Uses square root decomposition to solve it
 ... RMQSQ
 ... http://goo.gl/AKi2q0 (Topcoder expination of the RMQSQ and LCA problems and algorithms)
 
 Least common ancestor
+... Uses square root decomposition to solve it
 ... LCASQ
 ... http://goo.gl/AKi2q0 (Topcoder expination of the RMQSQ and LCA problems and algorithms)
 
