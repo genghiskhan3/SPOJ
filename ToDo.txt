@@ -4,7 +4,7 @@ Minumum spanning tree, Kruskals and Prims algorithm
 ... ANT (UCF - 2014)
 ... CPU (UCF - 2014)
 
-Range Minimum Sum
+Range Minimum Querey
 ... Uses square root decomposition to solve it
 ... RMQSQ
 ... http://goo.gl/AKi2q0 (Topcoder expination of the RMQSQ and LCA problems and algorithms)
