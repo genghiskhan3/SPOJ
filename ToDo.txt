@@ -1,4 +1,4 @@
-Minumum spanning tree, Kruskals and primes algorithm
+Minumum spanning tree, Kruskals and Prims algorithm
 ... CSTREET
 ... MST
 
